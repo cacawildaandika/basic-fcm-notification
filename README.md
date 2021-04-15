@@ -1,4 +1,4 @@
-# basic-fcm-notification
+# basic-send-fcm-notification
 
 ## Method : POST
 ## Url : https://fcm.googleapis.com/fcm/send
